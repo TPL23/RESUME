@@ -1,0 +1,52 @@
+:root{
+    --first: #101D6b;
+    --second: #ffE5ff;
+    --third:#e8ffff;
+
+}
+.Main-Header{
+    background-color: #101D6b;
+}
+.SectionA{
+    background-color: #e8ffff;
+}
+.SectionB{
+    background-color: white;
+}
+.inp:hover{
+    color:#101D6b;
+   
+    
+}
+.card-cmn{
+    height: 35em;
+    width: 24em;
+
+}
+.rowcrsl{
+    height: 10em;
+    width: auto;
+    margin-top: -2em;
+    margin-right: 0em;
+    margin-left: 0em;
+}
+
+
+
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    }
+
+.Main-hd{
+        background-color: #101D6b;
+        text-align: right;
+    }
+    /* Add a border to the carousel */
+.carousel {
+     /* 2px width, solid style, black color */
+  }
+  
+
